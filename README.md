@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-15-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-10-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-16-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-11-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-3-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--10-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 15
+- Total solved: 16
 - Difficulty split:
-  - Easy: 10
+  - Easy: 11
   - Medium: 3
   - Hard: 2
 
@@ -29,6 +29,7 @@ This repository contains concise and interview-focused implementations for LeetC
 ```text
 LeetCode/
 |-- EasyQuestions/
+|   |-- 1.py
 |   |-- 9.py
 |   |-- 104.py
 |   |-- 111.py
@@ -54,6 +55,7 @@ LeetCode/
 
 | #    | Problem                                                 | Difficulty | File                                             | Approach                                       | Time              | Space |
 | ---- | ------------------------------------------------------- | ---------- | ------------------------------------------------ | ---------------------------------------------- | ----------------- | ----- |
+| 1    | Two Sum                                                 | Easy       | [EasyQuestions/1.py](EasyQuestions/1.py)         | One-pass hash map                              | O(n)              | O(n)  |
 | 9    | Palindrome Number                                       | Easy       | [EasyQuestions/9.py](EasyQuestions/9.py)         | Reverse integer and compare                    | O(log n)          | O(1)  |
 | 104  | Maximum Depth of Binary Tree                            | Easy       | [EasyQuestions/104.py](EasyQuestions/104.py)     | DFS recursion                                  | O(n)              | O(h)  |
 | 111  | Minimum Depth of Binary Tree                            | Easy       | [EasyQuestions/111.py](EasyQuestions/111.py)     | DFS recursion with null-child handling         | O(n)              | O(h)  |
