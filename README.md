@@ -1,5 +1,16 @@
 # LeetCode Python Solutions
 
+<!-- BADGES_START -->
+
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![Solved](https://img.shields.io/badge/Solved-15-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-10-6ab04c)
+![Medium](https://img.shields.io/badge/Medium-3-f39c12)
+![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--10-0366d6)
+
+<!-- BADGES_END -->
+
 A curated collection of my LeetCode solutions in Python, organized by difficulty.
 
 ## Overview
@@ -39,6 +50,8 @@ LeetCode/
 
 ## Solved Problems
 
+<!-- SOLVED_TABLE_START -->
+
 | #    | Problem                                                 | Difficulty | File                                             | Approach                                       | Time              | Space |
 | ---- | ------------------------------------------------------- | ---------- | ------------------------------------------------ | ---------------------------------------------- | ----------------- | ----- |
 | 9    | Palindrome Number                                       | Easy       | [EasyQuestions/9.py](EasyQuestions/9.py)         | Reverse integer and compare                    | O(log n)          | O(1)  |
@@ -56,6 +69,8 @@ LeetCode/
 | 153  | Find Minimum in Rotated Sorted Array                    | Medium     | [MediumQuestions/153.py](MediumQuestions/153.py) | Binary search on pivot side                    | O(log n)          | O(1)  |
 | 4    | Median of Two Sorted Arrays                             | Hard       | [HardQuestions/4.py](HardQuestions/4.py)         | Partition-based binary search                  | O(log(min(m, n))) | O(1)  |
 | 42   | Trapping Rain Water                                     | Hard       | [HardQuestions/42.py](HardQuestions/42.py)       | Two pointers with running boundaries           | O(n)              | O(1)  |
+
+<!-- SOLVED_TABLE_END -->
 
 ## Run a Solution Locally
 
