@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-18-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-13-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-19-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-14-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-3-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--14-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 18
+- Total solved: 19
 - Difficulty split:
-  - Easy: 13
+  - Easy: 14
   - Medium: 3
   - Hard: 2
 
@@ -31,6 +31,7 @@ LeetCode/
 |-- EasyQuestions/
 |   |-- 1.py
 |   |-- 13.py
+|   |-- 26.py
 |   |-- 58.py
 |   |-- 9.py
 |   |-- 104.py
@@ -59,6 +60,7 @@ LeetCode/
 | ---- | ------------------------------------------------------- | ---------- | ------------------------------------------------ | ---------------------------------------------- | ----------------- | ----- |
 | 1    | Two Sum                                                 | Easy       | [EasyQuestions/1.py](EasyQuestions/1.py)         | One-pass hash map                              | O(n)              | O(n)  |
 | 13   | Roman to Integer                                        | Easy       | [EasyQuestions/13.py](EasyQuestions/13.py)       | Left-to-right numeral comparison               | O(n)              | O(1)  |
+| 26   | Remove Duplicates from Sorted Array                     | Easy       | [EasyQuestions/26.py](EasyQuestions/26.py)       | Two-pointer overwrite                          | O(n)              | O(1)  |
 | 58   | Length of Last Word                                     | Easy       | [EasyQuestions/58.py](EasyQuestions/58.py)       | Strip and split string                         | O(n)              | O(n)  |
 | 9    | Palindrome Number                                       | Easy       | [EasyQuestions/9.py](EasyQuestions/9.py)         | Reverse integer and compare                    | O(log n)          | O(1)  |
 | 104  | Maximum Depth of Binary Tree                            | Easy       | [EasyQuestions/104.py](EasyQuestions/104.py)     | DFS recursion                                  | O(n)              | O(h)  |
