@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-21-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-16-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-22-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-17-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-3-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--14-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 21
+- Total solved: 22
 - Difficulty split:
-  - Easy: 16
+  - Easy: 17
   - Medium: 3
   - Hard: 2
 
@@ -32,6 +32,7 @@ LeetCode/
 |   |-- 1.py
 |   |-- 13.py
 |   |-- 26.py
+|   |-- 27.py
 |   |-- 66.py
 |   |-- 58.py
 |   |-- 9.py
@@ -63,6 +64,7 @@ LeetCode/
 | 1    | Two Sum                                                 | Easy       | [EasyQuestions/1.py](EasyQuestions/1.py)         | One-pass hash map                              | O(n)              | O(n)  |
 | 13   | Roman to Integer                                        | Easy       | [EasyQuestions/13.py](EasyQuestions/13.py)       | Left-to-right numeral comparison               | O(n)              | O(1)  |
 | 26   | Remove Duplicates from Sorted Array                     | Easy       | [EasyQuestions/26.py](EasyQuestions/26.py)       | Two-pointer overwrite                          | O(n)              | O(1)  |
+| 27   | Remove Element                                          | Easy       | [EasyQuestions/27.py](EasyQuestions/27.py)       | Write-pointer compaction                       | O(n)              | O(1)  |
 | 66   | Plus One                                                | Easy       | [EasyQuestions/66.py](EasyQuestions/66.py)       | Right-to-left carry handling                   | O(n)              | O(1)  |
 | 58   | Length of Last Word                                     | Easy       | [EasyQuestions/58.py](EasyQuestions/58.py)       | Strip and split string                         | O(n)              | O(n)  |
 | 9    | Palindrome Number                                       | Easy       | [EasyQuestions/9.py](EasyQuestions/9.py)         | Reverse integer and compare                    | O(log n)          | O(1)  |
