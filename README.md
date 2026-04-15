@@ -3,11 +3,11 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-23-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-18-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-24-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-19-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-3-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--14-0366d6)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--15-0366d6)
 
 <!-- BADGES_END -->
 
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 23
+- Total solved: 24
 - Difficulty split:
-  - Easy: 18
+  - Easy: 19
   - Medium: 3
   - Hard: 2
 
@@ -44,6 +44,7 @@ LeetCode/
 |   |-- 1365.py
 |   |-- 2011.py
 |   |-- 217.py
+|   |-- 231.py
 |   |-- 268.py
 |   |-- 283.py
 |   `-- 448.py
@@ -77,6 +78,7 @@ LeetCode/
 | 1365 | How Many Numbers Are Smaller Than the Current Number    | Easy       | [EasyQuestions/1365.py](EasyQuestions/1365.py)   | Sort + first-index hash map                    | O(n log n)        | O(n)  |
 | 2011 | Final Value of Variable After Performing Operations     | Easy       | [EasyQuestions/2011.py](EasyQuestions/2011.py)   | Linear simulation                              | O(n)              | O(1)  |
 | 217  | Contains Duplicate                                      | Easy       | [EasyQuestions/217.py](EasyQuestions/217.py)     | Hash set length comparison                     | O(n)              | O(n)  |
+| 231  | Power of Two                                            | Easy       | [EasyQuestions/231.py](EasyQuestions/231.py)     | Bitwise power-of-two check                     | O(1)              | O(1)  |
 | 268  | Missing Number                                          | Easy       | [EasyQuestions/268.py](EasyQuestions/268.py)     | Arithmetic sum difference                      | O(n)              | O(1)  |
 | 283  | Move Zeroes                                             | Easy       | [EasyQuestions/283.py](EasyQuestions/283.py)     | Two-pointer in-place swapping                  | O(n)              | O(1)  |
 | 448  | Find All Numbers Disappeared in an Array                | Easy       | [EasyQuestions/448.py](EasyQuestions/448.py)     | Set membership scan                            | O(n)              | O(n)  |
