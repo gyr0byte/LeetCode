@@ -3,9 +3,9 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-25-2ea44f)
+![Solved](https://img.shields.io/badge/Solved-26-2ea44f)
 ![Easy](https://img.shields.io/badge/Easy-20-6ab04c)
-![Medium](https://img.shields.io/badge/Medium-3-f39c12)
+![Medium](https://img.shields.io/badge/Medium-4-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--15-0366d6)
 
@@ -18,10 +18,10 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 25
+- Total solved: 26
 - Difficulty split:
   - Easy: 20
-  - Medium: 3
+  - Medium: 4
   - Hard: 2
 
 ## Repository Structure
@@ -51,6 +51,7 @@ LeetCode/
 |   `-- 448.py
 |-- MediumQuestions/
 |   |-- 34.py
+|   |-- 75.py
 |   |-- 98.py
 |   `-- 153.py
 `-- HardQuestions/
@@ -85,6 +86,7 @@ LeetCode/
 | 326  | Power of Three                                          | Easy       | [EasyQuestions/326.py](EasyQuestions/326.py)     | Recursive divisibility by 3                    | O(log n)          | O(log n) |
 | 448  | Find All Numbers Disappeared in an Array                | Easy       | [EasyQuestions/448.py](EasyQuestions/448.py)     | Set membership scan                            | O(n)              | O(n)     |
 | 34   | Find First and Last Position of Element in Sorted Array | Medium     | [MediumQuestions/34.py](MediumQuestions/34.py)   | Two binary searches                            | O(log n)          | O(1)     |
+| 75   | Sort Colors                                             | Medium     | [MediumQuestions/75.py](MediumQuestions/75.py)   | In-place bubble sort                           | O(n^2)            | O(1)     |
 | 98   | Validate Binary Search Tree                             | Medium     | [MediumQuestions/98.py](MediumQuestions/98.py)   | DFS bounds validation                          | O(n)              | O(h)     |
 | 153  | Find Minimum in Rotated Sorted Array                    | Medium     | [MediumQuestions/153.py](MediumQuestions/153.py) | Binary search on pivot side                    | O(log n)          | O(1)     |
 | 4    | Median of Two Sorted Arrays                             | Hard       | [HardQuestions/4.py](HardQuestions/4.py)         | Partition-based binary search                  | O(log(min(m, n))) | O(1)     |
