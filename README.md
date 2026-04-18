@@ -3,11 +3,11 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-26-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-20-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-27-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-21-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-4-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--17-0366d6)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--18-0366d6)
 
 <!-- BADGES_END -->
 
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 26
+- Total solved: 27
 - Difficulty split:
-  - Easy: 20
+  - Easy: 21
   - Medium: 4
   - Hard: 2
 
@@ -42,6 +42,7 @@ LeetCode/
 |   |-- 125.py
 |   |-- 1266.py
 |   |-- 1365.py
+|   |-- 169.py
 |   |-- 2011.py
 |   |-- 217.py
 |   |-- 231.py
@@ -78,6 +79,7 @@ LeetCode/
 | 125  | Valid Palindrome                                        | Easy       | [EasyQuestions/125.py](EasyQuestions/125.py)     | Filter + normalize + two-way check via reverse | O(n)              | O(n)     |
 | 1266 | Minimum Time Visiting All Points                        | Easy       | [EasyQuestions/1266.py](EasyQuestions/1266.py)   | Chebyshev distance accumulation                | O(n)              | O(1)     |
 | 1365 | How Many Numbers Are Smaller Than the Current Number    | Easy       | [EasyQuestions/1365.py](EasyQuestions/1365.py)   | Sort + first-index hash map                    | O(n log n)        | O(n)     |
+| 169  | Majority Element                                        | Easy       | [EasyQuestions/169.py](EasyQuestions/169.py)     | Sort and take middle element                   | O(n log n)        | O(n)     |
 | 2011 | Final Value of Variable After Performing Operations     | Easy       | [EasyQuestions/2011.py](EasyQuestions/2011.py)   | Linear simulation                              | O(n)              | O(1)     |
 | 217  | Contains Duplicate                                      | Easy       | [EasyQuestions/217.py](EasyQuestions/217.py)     | Hash set length comparison                     | O(n)              | O(n)     |
 | 231  | Power of Two                                            | Easy       | [EasyQuestions/231.py](EasyQuestions/231.py)     | Bitwise power-of-two check                     | O(1)              | O(1)     |
