@@ -79,7 +79,7 @@ LeetCode/
 | 125  | Valid Palindrome                                        | Easy       | [EasyQuestions/125.py](EasyQuestions/125.py)     | Filter + normalize + two-way check via reverse | O(n)              | O(n)     |
 | 1266 | Minimum Time Visiting All Points                        | Easy       | [EasyQuestions/1266.py](EasyQuestions/1266.py)   | Chebyshev distance accumulation                | O(n)              | O(1)     |
 | 1365 | How Many Numbers Are Smaller Than the Current Number    | Easy       | [EasyQuestions/1365.py](EasyQuestions/1365.py)   | Sort + first-index hash map                    | O(n log n)        | O(n)     |
-| 169  | Majority Element                                        | Easy       | [EasyQuestions/169.py](EasyQuestions/169.py)     | Sort and take middle element                   | O(n log n)        | O(n)     |
+| 169  | Majority Element                                        | Easy       | [EasyQuestions/169.py](EasyQuestions/169.py)     | Boyer-Moore voting algorithm                   | O(n)              | O(1)     |
 | 2011 | Final Value of Variable After Performing Operations     | Easy       | [EasyQuestions/2011.py](EasyQuestions/2011.py)   | Linear simulation                              | O(n)              | O(1)     |
 | 217  | Contains Duplicate                                      | Easy       | [EasyQuestions/217.py](EasyQuestions/217.py)     | Hash set length comparison                     | O(n)              | O(n)     |
 | 231  | Power of Two                                            | Easy       | [EasyQuestions/231.py](EasyQuestions/231.py)     | Bitwise power-of-two check                     | O(1)              | O(1)     |
