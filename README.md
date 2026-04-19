@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-29-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-22-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-30-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-23-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-5-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--19-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 29
+- Total solved: 30
 - Difficulty split:
-  - Easy: 22
+  - Easy: 23
   - Medium: 5
   - Hard: 2
 
