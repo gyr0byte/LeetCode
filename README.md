@@ -50,6 +50,7 @@ LeetCode/
 |   |-- 268.py
 |   |-- 283.py
 |   |-- 326.py
+|   |-- 3110.py
 |   `-- 448.py
 |-- MediumQuestions/
 |   |-- 1143.py
@@ -89,6 +90,7 @@ LeetCode/
 | 268  | Missing Number                                          | Easy       | [EasyQuestions/268.py](EasyQuestions/268.py)       | Arithmetic sum difference                      | O(n)              | O(1)     |
 | 283  | Move Zeroes                                             | Easy       | [EasyQuestions/283.py](EasyQuestions/283.py)       | Two-pointer in-place swapping                  | O(n)              | O(1)     |
 | 326  | Power of Three                                          | Easy       | [EasyQuestions/326.py](EasyQuestions/326.py)       | Recursive divisibility by 3                    | O(log n)          | O(log n) |
+| 3110 | Score of a String                                       | Easy       | [EasyQuestions/3110.py](EasyQuestions/3110.py)     | Adjacent ASCII difference accumulation         | O(n)              | O(1)     |
 | 448  | Find All Numbers Disappeared in an Array                | Easy       | [EasyQuestions/448.py](EasyQuestions/448.py)       | Set membership scan                            | O(n)              | O(n)     |
 | 34   | Find First and Last Position of Element in Sorted Array | Medium     | [MediumQuestions/34.py](MediumQuestions/34.py)     | Two binary searches                            | O(log n)          | O(1)     |
 | 75   | Sort Colors                                             | Medium     | [MediumQuestions/75.py](MediumQuestions/75.py)     | Dutch national flag three-pointer partition    | O(n)              | O(1)     |
