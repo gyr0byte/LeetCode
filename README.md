@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-28-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-21-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-29-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-22-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-5-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--19-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 28
+- Total solved: 29
 - Difficulty split:
-  - Easy: 21
+  - Easy: 22
   - Medium: 5
   - Hard: 2
 
@@ -46,6 +46,7 @@ LeetCode/
 |   |-- 2011.py
 |   |-- 217.py
 |   |-- 231.py
+|   |-- 3894.py
 |   |-- 268.py
 |   |-- 283.py
 |   |-- 326.py
@@ -84,6 +85,7 @@ LeetCode/
 | 2011 | Final Value of Variable After Performing Operations     | Easy       | [EasyQuestions/2011.py](EasyQuestions/2011.py)     | Linear simulation                              | O(n)              | O(1)     |
 | 217  | Contains Duplicate                                      | Easy       | [EasyQuestions/217.py](EasyQuestions/217.py)       | Hash set length comparison                     | O(n)              | O(n)     |
 | 231  | Power of Two                                            | Easy       | [EasyQuestions/231.py](EasyQuestions/231.py)       | Bitwise power-of-two check                     | O(1)              | O(1)     |
+| 3894 | Traffic Signal                                          | Easy       | [EasyQuestions/3894.py](EasyQuestions/3894.py)     | Conditional signal state lookup                | O(1)              | O(1)     |
 | 268  | Missing Number                                          | Easy       | [EasyQuestions/268.py](EasyQuestions/268.py)       | Arithmetic sum difference                      | O(n)              | O(1)     |
 | 283  | Move Zeroes                                             | Easy       | [EasyQuestions/283.py](EasyQuestions/283.py)       | Two-pointer in-place swapping                  | O(n)              | O(1)     |
 | 326  | Power of Three                                          | Easy       | [EasyQuestions/326.py](EasyQuestions/326.py)       | Recursive divisibility by 3                    | O(log n)          | O(log n) |
