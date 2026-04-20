@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-34-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-27-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-35-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-28-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-5-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--20-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 34
+- Total solved: 35
 - Difficulty split:
-  - Easy: 27
+  - Easy: 28
   - Medium: 5
   - Hard: 2
 
@@ -52,6 +52,7 @@ LeetCode/
 |   |-- 2769.py
 |   |-- 283.py
 |   |-- 2894.py
+|   |-- 2942.py
 |   |-- 326.py
 |   |-- 3110.py
 |   |-- 3190.py
@@ -96,6 +97,7 @@ LeetCode/
 | 2769 | Find the Maximum Achievable Number                              | Easy       | [EasyQuestions/2769.py](EasyQuestions/2769.py)     | Direct arithmetic transformation               | O(1)              | O(1)     |
 | 283  | Move Zeroes                                                     | Easy       | [EasyQuestions/283.py](EasyQuestions/283.py)       | Two-pointer in-place swapping                  | O(n)              | O(1)     |
 | 2894 | Divisible and Non-divisible Sums Difference                     | Easy       | [EasyQuestions/2894.py](EasyQuestions/2894.py)     | Two filtered sums and subtraction              | O(n)              | O(1)     |
+| 2942 | Find Words Containing Character                                 | Easy       | [EasyQuestions/2942.py](EasyQuestions/2942.py)     | Scan words and collect matching indices        | O(n\*m)           | O(k)     |
 | 326  | Power of Three                                                  | Easy       | [EasyQuestions/326.py](EasyQuestions/326.py)       | Recursive divisibility by 3                    | O(log n)          | O(log n) |
 | 3110 | Score of a String                                               | Easy       | [EasyQuestions/3110.py](EasyQuestions/3110.py)     | Adjacent ASCII difference accumulation         | O(n)              | O(1)     |
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy       | [EasyQuestions/3190.py](EasyQuestions/3190.py)     | Count non-divisible elements                   | O(n)              | O(1)     |
