@@ -3,11 +3,11 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-33-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-26-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-34-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-27-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-5-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--19-0366d6)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--20-0366d6)
 
 <!-- BADGES_END -->
 
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 33
+- Total solved: 34
 - Difficulty split:
-  - Easy: 26
+  - Easy: 27
   - Medium: 5
   - Hard: 2
 
@@ -43,6 +43,7 @@ LeetCode/
 |   |-- 1266.py
 |   |-- 1365.py
 |   |-- 169.py
+|   |-- 1929.py
 |   |-- 2011.py
 |   |-- 217.py
 |   |-- 231.py
@@ -86,6 +87,7 @@ LeetCode/
 | 1266 | Minimum Time Visiting All Points                                | Easy       | [EasyQuestions/1266.py](EasyQuestions/1266.py)     | Chebyshev distance accumulation                | O(n)              | O(1)     |
 | 1365 | How Many Numbers Are Smaller Than the Current Number            | Easy       | [EasyQuestions/1365.py](EasyQuestions/1365.py)     | Sort + first-index hash map                    | O(n log n)        | O(n)     |
 | 169  | Majority Element                                                | Easy       | [EasyQuestions/169.py](EasyQuestions/169.py)       | Boyer-Moore voting algorithm                   | O(n)              | O(1)     |
+| 1929 | Concatenation of Array                                          | Easy       | [EasyQuestions/1929.py](EasyQuestions/1929.py)     | Concatenate array with itself                  | O(n)              | O(n)     |
 | 2011 | Final Value of Variable After Performing Operations             | Easy       | [EasyQuestions/2011.py](EasyQuestions/2011.py)     | Linear simulation                              | O(n)              | O(1)     |
 | 217  | Contains Duplicate                                              | Easy       | [EasyQuestions/217.py](EasyQuestions/217.py)       | Hash set length comparison                     | O(n)              | O(n)     |
 | 231  | Power of Two                                                    | Easy       | [EasyQuestions/231.py](EasyQuestions/231.py)       | Bitwise power-of-two check                     | O(1)              | O(1)     |
