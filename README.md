@@ -3,9 +3,9 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-38-2ea44f)
+![Solved](https://img.shields.io/badge/Solved-39-2ea44f)
 ![Easy](https://img.shields.io/badge/Easy-31-6ab04c)
-![Medium](https://img.shields.io/badge/Medium-5-f39c12)
+![Medium](https://img.shields.io/badge/Medium-6-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--21-0366d6)
 
@@ -18,10 +18,10 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 38
+- Total solved: 39
 - Difficulty split:
   - Easy: 31
-  - Medium: 5
+  - Medium: 6
   - Hard: 2
 
 ## Repository Structure
@@ -63,6 +63,7 @@ LeetCode/
 |-- MediumQuestions/
 |   |-- 1143.py
 |   |-- 34.py
+|   |-- 49.py
 |   |-- 75.py
 |   |-- 98.py
 |   `-- 153.py
@@ -109,6 +110,7 @@ LeetCode/
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy       | [EasyQuestions/3190.py](EasyQuestions/3190.py)     | Count non-divisible elements                   | O(n)              | O(1)     |
 | 448  | Find All Numbers Disappeared in an Array                        | Easy       | [EasyQuestions/448.py](EasyQuestions/448.py)       | Set membership scan                            | O(n)              | O(n)     |
 | 34   | Find First and Last Position of Element in Sorted Array         | Medium     | [MediumQuestions/34.py](MediumQuestions/34.py)     | Two binary searches                            | O(log n)          | O(1)     |
+| 49   | Group Anagrams                                                  | Medium     | [MediumQuestions/49.py](MediumQuestions/49.py)     | Character frequency signature hashing          | O(n\*k)           | O(n\*k)  |
 | 75   | Sort Colors                                                     | Medium     | [MediumQuestions/75.py](MediumQuestions/75.py)     | Dutch national flag three-pointer partition    | O(n)              | O(1)     |
 | 98   | Validate Binary Search Tree                                     | Medium     | [MediumQuestions/98.py](MediumQuestions/98.py)     | DFS bounds validation                          | O(n)              | O(h)     |
 | 1143 | Longest Common Subsequence                                      | Medium     | [MediumQuestions/1143.py](MediumQuestions/1143.py) | Bottom-up dynamic programming table            | O(m\*n)           | O(m\*n)  |
