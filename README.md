@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-40-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-32-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-41-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-33-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-6-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--22-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 40
+- Total solved: 41
 - Difficulty split:
-  - Easy: 32
+  - Easy: 33
   - Medium: 6
   - Hard: 2
 
@@ -48,6 +48,7 @@ LeetCode/
 |   |-- 217.py
 |   |-- 231.py
 |   |-- 242.py
+|   |-- 2469.py
 |   |-- 2496.py
 |   |-- 3894.py
 |   |-- 268.py
@@ -96,6 +97,7 @@ LeetCode/
 | 217  | Contains Duplicate                                              | Easy       | [EasyQuestions/217.py](EasyQuestions/217.py)       | Hash set length comparison                     | O(n)              | O(n)     |
 | 231  | Power of Two                                                    | Easy       | [EasyQuestions/231.py](EasyQuestions/231.py)       | Bitwise power-of-two check                     | O(1)              | O(1)     |
 | 242  | Valid Anagram                                                   | Easy       | [EasyQuestions/242.py](EasyQuestions/242.py)       | Compare letter frequencies                     | O(n)              | O(1)     |
+| 2469 | Convert the Temperature                                         | Easy       | [EasyQuestions/2469.py](EasyQuestions/2469.py)     | Direct Celsius conversion formulas             | O(1)              | O(1)     |
 | 2496 | Convert the Temperature                                         | Easy       | [EasyQuestions/2496.py](EasyQuestions/2496.py)     | Direct Celsius conversion formulas             | O(1)              | O(1)     |
 | 3894 | Traffic Signal                                                  | Easy       | [EasyQuestions/3894.py](EasyQuestions/3894.py)     | Conditional signal state lookup                | O(1)              | O(1)     |
 | 268  | Missing Number                                                  | Easy       | [EasyQuestions/268.py](EasyQuestions/268.py)       | Arithmetic sum difference                      | O(n)              | O(1)     |
@@ -105,6 +107,7 @@ LeetCode/
 | 2942 | Find Words Containing Character                                 | Easy       | [EasyQuestions/2942.py](EasyQuestions/2942.py)     | Scan words and collect matching indices        | O(n\*m)           | O(k)     |
 | 326  | Power of Three                                                  | Easy       | [EasyQuestions/326.py](EasyQuestions/326.py)       | Recursive divisibility by 3                    | O(log n)          | O(log n) |
 | 3701 | Alternating Sum                                                 | Easy       | [EasyQuestions/3701.py](EasyQuestions/3701.py)     | Pairwise alternating addition and subtraction  | O(n)              | O(1)     |
+| 3794 | Reverse Prefix                                                  | Easy       | [EasyQuestions/3794.py](EasyQuestions/3794.py)     | Reverse prefix with string slicing             | O(n)              | O(n)     |
 | 3110 | Score of a String                                               | Easy       | [EasyQuestions/3110.py](EasyQuestions/3110.py)     | Adjacent ASCII difference accumulation         | O(n)              | O(1)     |
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy       | [EasyQuestions/3190.py](EasyQuestions/3190.py)     | Count non-divisible elements                   | O(n)              | O(1)     |
 | 448  | Find All Numbers Disappeared in an Array                        | Easy       | [EasyQuestions/448.py](EasyQuestions/448.py)       | Set membership scan                            | O(n)              | O(n)     |
