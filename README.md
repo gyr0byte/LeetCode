@@ -3,11 +3,11 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-39-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-31-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-40-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-32-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-6-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--21-0366d6)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--22-0366d6)
 
 <!-- BADGES_END -->
 
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 39
+- Total solved: 40
 - Difficulty split:
-  - Easy: 31
+  - Easy: 32
   - Medium: 6
   - Hard: 2
 
@@ -59,8 +59,7 @@ LeetCode/
 |   |-- 3701.py
 |   |-- 3110.py
 |   |-- 3190.py
-|   `-- 448.py
-|-- MediumQuestions/
+|   `-- 448.py|   |-- 771.py|-- MediumQuestions/
 |   |-- 1143.py
 |   |-- 34.py
 |   |-- 49.py
@@ -109,6 +108,7 @@ LeetCode/
 | 3110 | Score of a String                                               | Easy       | [EasyQuestions/3110.py](EasyQuestions/3110.py)     | Adjacent ASCII difference accumulation         | O(n)              | O(1)     |
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy       | [EasyQuestions/3190.py](EasyQuestions/3190.py)     | Count non-divisible elements                   | O(n)              | O(1)     |
 | 448  | Find All Numbers Disappeared in an Array                        | Easy       | [EasyQuestions/448.py](EasyQuestions/448.py)       | Set membership scan                            | O(n)              | O(n)     |
+| 771  | Jewels and Stones                                               | Easy       | [EasyQuestions/771.py](EasyQuestions/771.py)       | Count stones present in jewels string          | O(n\*m)           | O(1)     |
 | 34   | Find First and Last Position of Element in Sorted Array         | Medium     | [MediumQuestions/34.py](MediumQuestions/34.py)     | Two binary searches                            | O(log n)          | O(1)     |
 | 49   | Group Anagrams                                                  | Medium     | [MediumQuestions/49.py](MediumQuestions/49.py)     | Character frequency signature hashing          | O(n\*k)           | O(n\*k)  |
 | 75   | Sort Colors                                                     | Medium     | [MediumQuestions/75.py](MediumQuestions/75.py)     | Dutch national flag three-pointer partition    | O(n)              | O(1)     |
