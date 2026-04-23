@@ -3,11 +3,11 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-42-2ea44f)
+![Solved](https://img.shields.io/badge/Solved-43-2ea44f)
 ![Easy](https://img.shields.io/badge/Easy-34-6ab04c)
-![Medium](https://img.shields.io/badge/Medium-6-f39c12)
+![Medium](https://img.shields.io/badge/Medium-7-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--22-0366d6)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--24-0366d6)
 
 <!-- BADGES_END -->
 
@@ -18,10 +18,10 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 42
+- Total solved: 43
 - Difficulty split:
   - Easy: 34
-  - Medium: 6
+  - Medium: 7
   - Hard: 2
 
 ## Repository Structure
@@ -65,6 +65,7 @@ LeetCode/
 |   `-- 771.py
 |-- MediumQuestions/
 |   |-- 1143.py
+|   |-- 238.py
 |   |-- 34.py
 |   |-- 49.py
 |   |-- 75.py
@@ -116,6 +117,7 @@ LeetCode/
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy       | [EasyQuestions/3190.py](EasyQuestions/3190.py)     | Count non-divisible elements                   | O(n)              | O(1)     |
 | 448  | Find All Numbers Disappeared in an Array                        | Easy       | [EasyQuestions/448.py](EasyQuestions/448.py)       | Set membership scan                            | O(n)              | O(n)     |
 | 771  | Jewels and Stones                                               | Easy       | [EasyQuestions/771.py](EasyQuestions/771.py)       | Count stones present in jewels string          | O(n\*m)           | O(1)     |
+| 238  | Product of Array Except Self                                    | Medium     | [MediumQuestions/238.py](MediumQuestions/238.py)   | Two-pass prefix and postfix products           | O(n)              | O(1)     |
 | 34   | Find First and Last Position of Element in Sorted Array         | Medium     | [MediumQuestions/34.py](MediumQuestions/34.py)     | Two binary searches                            | O(log n)          | O(1)     |
 | 49   | Group Anagrams                                                  | Medium     | [MediumQuestions/49.py](MediumQuestions/49.py)     | Character frequency signature hashing          | O(n\*k)           | O(n\*k)  |
 | 75   | Sort Colors                                                     | Medium     | [MediumQuestions/75.py](MediumQuestions/75.py)     | Dutch national flag three-pointer partition    | O(n)              | O(1)     |
