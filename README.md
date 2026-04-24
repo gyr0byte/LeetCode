@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-49-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-40-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-50-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-41-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-7-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--24-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 49
+- Total solved: 50
 - Difficulty split:
-  - Easy: 40
+  - Easy: 41
   - Medium: 7
   - Hard: 2
 
@@ -58,6 +58,7 @@ LeetCode/
 |   |-- 3894.py
 |   |-- 268.py
 |   |-- 2769.py
+|   |-- 2798.py
 |   |-- 283.py
 |   |-- 2894.py
 |   |-- 2942.py
@@ -117,6 +118,7 @@ LeetCode/
 | 3894 | Traffic Signal                                                  | Easy       | [EasyQuestions/3894.py](EasyQuestions/3894.py)     | Conditional signal state lookup                | O(1)              | O(1)     |
 | 268  | Missing Number                                                  | Easy       | [EasyQuestions/268.py](EasyQuestions/268.py)       | Arithmetic sum difference                      | O(n)              | O(1)     |
 | 2769 | Find the Maximum Achievable Number                              | Easy       | [EasyQuestions/2769.py](EasyQuestions/2769.py)     | Direct arithmetic transformation               | O(1)              | O(1)     |
+| 2798 | Number of Employees Who Met the Target                          | Easy       | [EasyQuestions/2798.py](EasyQuestions/2798.py)     | Count hours meeting or exceeding target        | O(n)              | O(1)     |
 | 283  | Move Zeroes                                                     | Easy       | [EasyQuestions/283.py](EasyQuestions/283.py)       | Two-pointer in-place swapping                  | O(n)              | O(1)     |
 | 2894 | Divisible and Non-divisible Sums Difference                     | Easy       | [EasyQuestions/2894.py](EasyQuestions/2894.py)     | Two filtered sums and subtraction              | O(n)              | O(1)     |
 | 2942 | Find Words Containing Character                                 | Easy       | [EasyQuestions/2942.py](EasyQuestions/2942.py)     | Scan words and collect matching indices        | O(n\*m)           | O(k)     |
