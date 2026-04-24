@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-46-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-37-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-47-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-38-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-7-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--24-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 46
+- Total solved: 47
 - Difficulty split:
-  - Easy: 37
+  - Easy: 38
   - Medium: 7
   - Hard: 2
 
@@ -49,6 +49,7 @@ LeetCode/
 |   |-- 2011.py
 |   |-- 217.py
 |   |-- 231.py
+|   |-- 2413.py
 |   |-- 242.py
 |   |-- 2469.py
 |   |-- 2496.py
@@ -105,6 +106,7 @@ LeetCode/
 | 2011 | Final Value of Variable After Performing Operations             | Easy       | [EasyQuestions/2011.py](EasyQuestions/2011.py)     | Linear simulation                              | O(n)              | O(1)     |
 | 217  | Contains Duplicate                                              | Easy       | [EasyQuestions/217.py](EasyQuestions/217.py)       | Hash set length comparison                     | O(n)              | O(n)     |
 | 231  | Power of Two                                                    | Easy       | [EasyQuestions/231.py](EasyQuestions/231.py)       | Bitwise power-of-two check                     | O(1)              | O(1)     |
+| 2413 | Smallest Even Multiple                                          | Easy       | [EasyQuestions/2413.py](EasyQuestions/2413.py)     | Parity check and conditional doubling          | O(1)              | O(1)     |
 | 242  | Valid Anagram                                                   | Easy       | [EasyQuestions/242.py](EasyQuestions/242.py)       | Compare letter frequencies                     | O(n)              | O(1)     |
 | 2469 | Convert the Temperature                                         | Easy       | [EasyQuestions/2469.py](EasyQuestions/2469.py)     | Direct Celsius conversion formulas             | O(1)              | O(1)     |
 | 2496 | Convert the Temperature                                         | Easy       | [EasyQuestions/2496.py](EasyQuestions/2496.py)     | Direct Celsius conversion formulas             | O(1)              | O(1)     |
