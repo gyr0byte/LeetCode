@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-47-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-38-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-48-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-39-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-7-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--24-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 47
+- Total solved: 48
 - Difficulty split:
-  - Easy: 38
+  - Easy: 39
   - Medium: 7
   - Hard: 2
 
@@ -45,6 +45,7 @@ LeetCode/
 |   |-- 1672.py
 |   |-- 1684.py
 |   |-- 169.py
+|   |-- 1979.py
 |   |-- 1929.py
 |   |-- 2011.py
 |   |-- 217.py
@@ -102,6 +103,7 @@ LeetCode/
 | 1672 | Richest Customer Wealth                                         | Easy       | [EasyQuestions/1672.py](EasyQuestions/1672.py)     | Row-wise sum and running maximum               | O(m\*n)           | O(1)     |
 | 1684 | Count the Number of Consistent Strings                          | Easy       | [EasyQuestions/1684.py](EasyQuestions/1684.py)     | Allowed-character set with all-check           | O(n\*m)           | O(k)     |
 | 169  | Majority Element                                                | Easy       | [EasyQuestions/169.py](EasyQuestions/169.py)       | Boyer-Moore voting algorithm                   | O(n)              | O(1)     |
+| 1979 | Find Greatest Common Divisor of Array                           | Easy       | [EasyQuestions/1979.py](EasyQuestions/1979.py)     | Euclidean algorithm on min and max             | O(log n)          | O(1)     |
 | 1929 | Concatenation of Array                                          | Easy       | [EasyQuestions/1929.py](EasyQuestions/1929.py)     | Concatenate array with itself                  | O(n)              | O(n)     |
 | 2011 | Final Value of Variable After Performing Operations             | Easy       | [EasyQuestions/2011.py](EasyQuestions/2011.py)     | Linear simulation                              | O(n)              | O(1)     |
 | 217  | Contains Duplicate                                              | Easy       | [EasyQuestions/217.py](EasyQuestions/217.py)       | Hash set length comparison                     | O(n)              | O(n)     |
