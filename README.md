@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-43-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-34-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-44-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-35-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-7-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--24-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 43
+- Total solved: 44
 - Difficulty split:
-  - Easy: 34
+  - Easy: 35
   - Medium: 7
   - Hard: 2
 
@@ -42,6 +42,7 @@ LeetCode/
 |   |-- 125.py
 |   |-- 1266.py
 |   |-- 1365.py
+|   |-- 1672.py
 |   |-- 169.py
 |   |-- 1929.py
 |   |-- 2011.py
@@ -95,6 +96,7 @@ LeetCode/
 | 125  | Valid Palindrome                                                | Easy       | [EasyQuestions/125.py](EasyQuestions/125.py)       | Filter + normalize + two-way check via reverse | O(n)              | O(n)     |
 | 1266 | Minimum Time Visiting All Points                                | Easy       | [EasyQuestions/1266.py](EasyQuestions/1266.py)     | Chebyshev distance accumulation                | O(n)              | O(1)     |
 | 1365 | How Many Numbers Are Smaller Than the Current Number            | Easy       | [EasyQuestions/1365.py](EasyQuestions/1365.py)     | Sort + first-index hash map                    | O(n log n)        | O(n)     |
+| 1672 | Richest Customer Wealth                                         | Easy       | [EasyQuestions/1672.py](EasyQuestions/1672.py)     | Row-wise sum and running maximum               | O(m\*n)           | O(1)     |
 | 169  | Majority Element                                                | Easy       | [EasyQuestions/169.py](EasyQuestions/169.py)       | Boyer-Moore voting algorithm                   | O(n)              | O(1)     |
 | 1929 | Concatenation of Array                                          | Easy       | [EasyQuestions/1929.py](EasyQuestions/1929.py)     | Concatenate array with itself                  | O(n)              | O(n)     |
 | 2011 | Final Value of Variable After Performing Operations             | Easy       | [EasyQuestions/2011.py](EasyQuestions/2011.py)     | Linear simulation                              | O(n)              | O(1)     |
