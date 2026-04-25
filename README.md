@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-52-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-42-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-53-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-43-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-8-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--25-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 52
+- Total solved: 53
 - Difficulty split:
-  - Easy: 42
+  - Easy: 43
   - Medium: 8
   - Hard: 2
 
@@ -45,6 +45,7 @@ LeetCode/
 |   |-- 1672.py
 |   |-- 1684.py
 |   |-- 169.py
+|   |-- 1812.py
 |   |-- 1979.py
 |   |-- 1929.py
 |   |-- 2011.py
@@ -107,6 +108,7 @@ LeetCode/
 | 1672 | Richest Customer Wealth                                         | Easy       | [EasyQuestions/1672.py](EasyQuestions/1672.py)     | Row-wise sum and running maximum               | O(m\*n)           | O(1)     |
 | 1684 | Count the Number of Consistent Strings                          | Easy       | [EasyQuestions/1684.py](EasyQuestions/1684.py)     | Allowed-character set with all-check           | O(n\*m)           | O(k)     |
 | 169  | Majority Element                                                | Easy       | [EasyQuestions/169.py](EasyQuestions/169.py)       | Boyer-Moore voting algorithm                   | O(n)              | O(1)     |
+| 1812 | Determine Color of a Chessboard Square                          | Easy       | [EasyQuestions/1812.py](EasyQuestions/1812.py)     | Parity check on file and rank                  | O(1)              | O(1)     |
 | 1979 | Find Greatest Common Divisor of Array                           | Easy       | [EasyQuestions/1979.py](EasyQuestions/1979.py)     | Euclidean algorithm on min and max             | O(log n)          | O(1)     |
 | 1929 | Concatenation of Array                                          | Easy       | [EasyQuestions/1929.py](EasyQuestions/1929.py)     | Concatenate array with itself                  | O(n)              | O(n)     |
 | 2011 | Final Value of Variable After Performing Operations             | Easy       | [EasyQuestions/2011.py](EasyQuestions/2011.py)     | Linear simulation                              | O(n)              | O(1)     |
