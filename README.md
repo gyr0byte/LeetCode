@@ -3,11 +3,11 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-50-2ea44f)
+![Solved](https://img.shields.io/badge/Solved-51-2ea44f)
 ![Easy](https://img.shields.io/badge/Easy-41-6ab04c)
-![Medium](https://img.shields.io/badge/Medium-7-f39c12)
+![Medium](https://img.shields.io/badge/Medium-8-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--24-0366d6)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--25-0366d6)
 
 <!-- BADGES_END -->
 
@@ -18,10 +18,10 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 50
+- Total solved: 51
 - Difficulty split:
   - Easy: 41
-  - Medium: 7
+  - Medium: 8
   - Hard: 2
 
 ## Repository Structure
@@ -75,6 +75,7 @@ LeetCode/
 |   |-- 238.py
 |   |-- 34.py
 |   |-- 49.py
+|   |-- 72.py
 |   |-- 75.py
 |   |-- 98.py
 |   `-- 153.py
@@ -134,6 +135,7 @@ LeetCode/
 | 238  | Product of Array Except Self                                    | Medium     | [MediumQuestions/238.py](MediumQuestions/238.py)   | Two-pass prefix and postfix products           | O(n)              | O(1)     |
 | 34   | Find First and Last Position of Element in Sorted Array         | Medium     | [MediumQuestions/34.py](MediumQuestions/34.py)     | Two binary searches                            | O(log n)          | O(1)     |
 | 49   | Group Anagrams                                                  | Medium     | [MediumQuestions/49.py](MediumQuestions/49.py)     | Character frequency signature hashing          | O(n\*k)           | O(n\*k)  |
+| 72   | Edit Distance                                                   | Medium     | [MediumQuestions/72.py](MediumQuestions/72.py)     | Top-down dynamic programming with memoization  | O(m\*n)           | O(m\*n)  |
 | 75   | Sort Colors                                                     | Medium     | [MediumQuestions/75.py](MediumQuestions/75.py)     | Dutch national flag three-pointer partition    | O(n)              | O(1)     |
 | 98   | Validate Binary Search Tree                                     | Medium     | [MediumQuestions/98.py](MediumQuestions/98.py)     | DFS bounds validation                          | O(n)              | O(h)     |
 | 1143 | Longest Common Subsequence                                      | Medium     | [MediumQuestions/1143.py](MediumQuestions/1143.py) | Bottom-up dynamic programming table            | O(m\*n)           | O(m\*n)  |
