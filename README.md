@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-51-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-41-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-52-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-42-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-8-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--25-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 51
+- Total solved: 52
 - Difficulty split:
-  - Easy: 41
+  - Easy: 42
   - Medium: 8
   - Hard: 2
 
@@ -63,6 +63,7 @@ LeetCode/
 |   |-- 2894.py
 |   |-- 2942.py
 |   |-- 326.py
+|   |-- 3274.py
 |   |-- 3498.py
 |   |-- 3516.py
 |   |-- 3701.py
@@ -124,6 +125,7 @@ LeetCode/
 | 2894 | Divisible and Non-divisible Sums Difference                     | Easy       | [EasyQuestions/2894.py](EasyQuestions/2894.py)     | Two filtered sums and subtraction              | O(n)              | O(1)     |
 | 2942 | Find Words Containing Character                                 | Easy       | [EasyQuestions/2942.py](EasyQuestions/2942.py)     | Scan words and collect matching indices        | O(n\*m)           | O(k)     |
 | 326  | Power of Three                                                  | Easy       | [EasyQuestions/326.py](EasyQuestions/326.py)       | Recursive divisibility by 3                    | O(log n)          | O(log n) |
+| 3274 | Check if Two Chessboard Squares Have the Same Color             | Easy       | [EasyQuestions/3274.py](EasyQuestions/3274.py)     | Parity comparison of coordinate encodings      | O(1)              | O(1)     |
 | 3498 | Reverse Degree of a String                                      | Easy       | [EasyQuestions/3498.py](EasyQuestions/3498.py)     | Reverse alphabet position weighted sum         | O(n)              | O(1)     |
 | 3516 | Find Closest Person                                             | Easy       | [EasyQuestions/3516.py](EasyQuestions/3516.py)     | Compare absolute distances to target           | O(1)              | O(1)     |
 | 3701 | Alternating Sum                                                 | Easy       | [EasyQuestions/3701.py](EasyQuestions/3701.py)     | Pairwise alternating addition and subtraction  | O(n)              | O(1)     |
