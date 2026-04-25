@@ -3,9 +3,9 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-55-2ea44f)
+![Solved](https://img.shields.io/badge/Solved-56-2ea44f)
 ![Easy](https://img.shields.io/badge/Easy-43-6ab04c)
-![Medium](https://img.shields.io/badge/Medium-10-f39c12)
+![Medium](https://img.shields.io/badge/Medium-11-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--25-0366d6)
 
@@ -18,10 +18,10 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 55
+- Total solved: 56
 - Difficulty split:
   - Easy: 43
-  - Medium: 10
+  - Medium: 11
   - Hard: 2
 
 ## Repository Structure
@@ -74,6 +74,7 @@ LeetCode/
 |   `-- 771.py
 |-- MediumQuestions/
 |   |-- 1143.py
+|   |-- 2161.py
 |   |-- 238.py
 |   |-- 2396.py
 |   |-- 3760.py
@@ -138,6 +139,7 @@ LeetCode/
 | 3190 | Find Minimum Operations to Make All Elements Divisible by Three | Easy       | [EasyQuestions/3190.py](EasyQuestions/3190.py)     | Count non-divisible elements                   | O(n)              | O(1)     |
 | 448  | Find All Numbers Disappeared in an Array                        | Easy       | [EasyQuestions/448.py](EasyQuestions/448.py)       | Set membership scan                            | O(n)              | O(n)     |
 | 771  | Jewels and Stones                                               | Easy       | [EasyQuestions/771.py](EasyQuestions/771.py)       | Count stones present in jewels string          | O(n\*m)           | O(1)     |
+| 2161 | Partition Array According to Given Pivot                        | Medium     | [MediumQuestions/2161.py](MediumQuestions/2161.py) | Three lists for less/equal/greater partitions  | O(n)              | O(n)     |
 | 238  | Product of Array Except Self                                    | Medium     | [MediumQuestions/238.py](MediumQuestions/238.py)   | Two-pass prefix and postfix products           | O(n)              | O(1)     |
 | 2396 | Strictly Palindromic Number                                     | Medium     | [MediumQuestions/2396.py](MediumQuestions/2396.py) | Base-conversion palindrome checks with cutoff  | O(log n)          | O(log n) |
 | 3760 | Maximum Number of Distinct Characters                           | Medium     | [MediumQuestions/3760.py](MediumQuestions/3760.py) | Distinct-count via hash set                    | O(n)              | O(n)     |
