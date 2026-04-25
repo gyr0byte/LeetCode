@@ -1,5 +1,8 @@
 class Solution(object):
     def checkTwoChessboards(self, coordinate1, coordinate2):
-        val1 = ord(coordinate1[0]) + int(coordinate1[1])
-        val2 = ord(coordinate2[0]) + int(coordinate2[1])
-        return True if (val1%2 == 0 and val2%2 == 0) == (val1%2 == 0) else False
+        col1 = ord(coordinate1[0]) - ord('a') + 1
+        row1 = int(coordinate1[1])
+        col2 = ord(coordinate2[0]) - ord('a') + 1
+        row2 = int(coordinate2[1])
+
+        return (col1 + row1) % 2 == (col2 + row2) % 2
