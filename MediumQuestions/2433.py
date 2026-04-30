@@ -1,8 +1,8 @@
 class Solution(object):
     def findArray(self, pref):
-        arr = []
-        arr.append(pref[0])
-        for i in range(len(pref) - 1):
-            comp = pref[i] ^ pref[i+1]
-            arr.append(comp)
+        n = len(pref)
+        arr = [0] * n
+        arr[0] = pref[0]
+        for i in range(1, n):
+            arr[i] = pref[i] ^ pref[i-1]
         return arr
