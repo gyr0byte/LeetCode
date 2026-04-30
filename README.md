@@ -3,9 +3,9 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-58-2ea44f)
+![Solved](https://img.shields.io/badge/Solved-59-2ea44f)
 ![Easy](https://img.shields.io/badge/Easy-43-6ab04c)
-![Medium](https://img.shields.io/badge/Medium-13-f39c12)
+![Medium](https://img.shields.io/badge/Medium-14-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--30-0366d6)
 
@@ -18,10 +18,10 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 58
+- Total solved: 59
 - Difficulty split:
   - Easy: 43
-  - Medium: 13
+  - Medium: 14
   - Hard: 2
 
 ## Repository Structure
@@ -77,6 +77,7 @@ LeetCode/
 |   |-- 17.py
 |   |-- 2161.py
 |   |-- 238.py
+|   |-- 2433.py
 |   |-- 2396.py
 |   |-- 3760.py
 |   |-- 39.py
@@ -145,6 +146,7 @@ LeetCode/
 | 2161 | Partition Array According to Given Pivot                        | Medium     | [MediumQuestions/2161.py](MediumQuestions/2161.py) | Three lists for less/equal/greater partitions  | O(n)              | O(n)     |
 | 39   | Combination Sum                                                 | Medium     | [MediumQuestions/39.py](MediumQuestions/39.py)     | Backtracking with reusable candidates          | O(2^n)            | O(n)     |
 | 238  | Product of Array Except Self                                    | Medium     | [MediumQuestions/238.py](MediumQuestions/238.py)   | Two-pass prefix and postfix products           | O(n)              | O(1)     |
+| 2433 | Find The Original Array of Prefix Xor                           | Medium     | [MediumQuestions/2433.py](MediumQuestions/2433.py) | Rebuild array using prefix XOR differences     | O(n)              | O(n)     |
 | 2396 | Strictly Palindromic Number                                     | Medium     | [MediumQuestions/2396.py](MediumQuestions/2396.py) | Base-conversion palindrome checks with cutoff  | O(log n)          | O(log n) |
 | 3760 | Maximum Number of Distinct Characters                           | Medium     | [MediumQuestions/3760.py](MediumQuestions/3760.py) | Distinct-count via hash set                    | O(n)              | O(n)     |
 | 34   | Find First and Last Position of Element in Sorted Array         | Medium     | [MediumQuestions/34.py](MediumQuestions/34.py)     | Two binary searches                            | O(log n)          | O(1)     |
