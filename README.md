@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-61-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-45-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-62-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-46-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-14-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--09-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 61
+- Total solved: 62
 - Difficulty split:
-  - Easy: 45
+  - Easy: 46
   - Medium: 14
   - Hard: 2
 
@@ -39,6 +39,7 @@ LeetCode/
 |   |-- 9.py
 |   |-- 104.py
 |   |-- 111.py
+|   |-- 121.py
 |   |-- 125.py
 |   |-- 1266.py
 |   |-- 1365.py
@@ -110,6 +111,7 @@ LeetCode/
 | 9    | Palindrome Number                                               | Easy       | [EasyQuestions/9.py](EasyQuestions/9.py)           | Reverse integer and compare                                   | O(log n)          | O(1)     |
 | 104  | Maximum Depth of Binary Tree                                    | Easy       | [EasyQuestions/104.py](EasyQuestions/104.py)       | DFS recursion                                                 | O(n)              | O(h)     |
 | 111  | Minimum Depth of Binary Tree                                    | Easy       | [EasyQuestions/111.py](EasyQuestions/111.py)       | DFS recursion with null-child handling                        | O(n)              | O(h)     |
+| 121  | Best Time to Buy and Sell Stock                                 | Easy       | [EasyQuestions/121.py](EasyQuestions/121.py)       | Track running minimum and best profit                         | O(n)              | O(1)     |
 | 125  | Valid Palindrome                                                | Easy       | [EasyQuestions/125.py](EasyQuestions/125.py)       | Filter + normalize + two-way check via reverse                | O(n)              | O(n)     |
 | 1266 | Minimum Time Visiting All Points                                | Easy       | [EasyQuestions/1266.py](EasyQuestions/1266.py)     | Chebyshev distance accumulation                               | O(n)              | O(1)     |
 | 1365 | How Many Numbers Are Smaller Than the Current Number            | Easy       | [EasyQuestions/1365.py](EasyQuestions/1365.py)     | Sort + first-index hash map                                   | O(n log n)        | O(n)     |
