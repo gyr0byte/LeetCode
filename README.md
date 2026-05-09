@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-62-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-46-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-63-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-47-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-14-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--09-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 62
+- Total solved: 63
 - Difficulty split:
-  - Easy: 46
+  - Easy: 47
   - Medium: 14
   - Hard: 2
 
@@ -46,6 +46,7 @@ LeetCode/
 |   |-- 1464.py
 |   |-- 1672.py
 |   |-- 1684.py
+|   |-- 1732.py
 |   |-- 169.py
 |   |-- 1812.py
 |   |-- 1979.py
@@ -118,6 +119,7 @@ LeetCode/
 | 1464 | Maximum Product of Two Elements in an Array                     | Easy       | [EasyQuestions/1464.py](EasyQuestions/1464.py)     | Track two largest values and multiply adjusted product        | O(n)              | O(1)     |
 | 1672 | Richest Customer Wealth                                         | Easy       | [EasyQuestions/1672.py](EasyQuestions/1672.py)     | Row-wise sum and running maximum                              | O(m\*n)           | O(1)     |
 | 1684 | Count the Number of Consistent Strings                          | Easy       | [EasyQuestions/1684.py](EasyQuestions/1684.py)     | Allowed-character set with all-check                          | O(n\*m)           | O(k)     |
+| 1732 | Maximum Altitude                                                | Easy       | [EasyQuestions/1732.py](EasyQuestions/1732.py)     | Iterate gains and track maximum cumulative sum                | O(n)              | O(1)     |
 | 169  | Majority Element                                                | Easy       | [EasyQuestions/169.py](EasyQuestions/169.py)       | Boyer-Moore voting algorithm                                  | O(n)              | O(1)     |
 | 1812 | Determine Color of a Chessboard Square                          | Easy       | [EasyQuestions/1812.py](EasyQuestions/1812.py)     | Parity check on file and rank                                 | O(1)              | O(1)     |
 | 1979 | Find Greatest Common Divisor of Array                           | Easy       | [EasyQuestions/1979.py](EasyQuestions/1979.py)     | Euclidean algorithm on min and max                            | O(log n)          | O(1)     |
@@ -129,7 +131,6 @@ LeetCode/
 | 2413 | Smallest Even Multiple                                          | Easy       | [EasyQuestions/2413.py](EasyQuestions/2413.py)     | Parity check and conditional doubling                         | O(1)              | O(1)     |
 | 242  | Valid Anagram                                                   | Easy       | [EasyQuestions/242.py](EasyQuestions/242.py)       | Compare letter frequencies                                    | O(n)              | O(1)     |
 | 2469 | Convert the Temperature                                         | Easy       | [EasyQuestions/2469.py](EasyQuestions/2469.py)     | Direct Celsius conversion formulas                            | O(1)              | O(1)     |
-| 2496 | Convert the Temperature                                         | Easy       | [EasyQuestions/2496.py](EasyQuestions/2496.py)     | Direct Celsius conversion formulas                            | O(1)              | O(1)     |
 | 2582 | Pass the Pillow                                                 | Easy       | [EasyQuestions/2582.py](EasyQuestions/2582.py)     | Cycle-based position simulation                               | O(1)              | O(1)     |
 | 3894 | Traffic Signal                                                  | Easy       | [EasyQuestions/3894.py](EasyQuestions/3894.py)     | Conditional signal state lookup                               | O(1)              | O(1)     |
 | 268  | Missing Number                                                  | Easy       | [EasyQuestions/268.py](EasyQuestions/268.py)       | Arithmetic sum difference                                     | O(n)              | O(1)     |
