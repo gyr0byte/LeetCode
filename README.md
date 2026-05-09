@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-63-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-47-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-64-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-48-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-14-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--09-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 63
+- Total solved: 64
 - Difficulty split:
-  - Easy: 47
+  - Easy: 48
   - Medium: 14
   - Hard: 2
 
@@ -44,6 +44,7 @@ LeetCode/
 |   |-- 1266.py
 |   |-- 1365.py
 |   |-- 1464.py
+|   |-- 1480.py
 |   |-- 1672.py
 |   |-- 1684.py
 |   |-- 1732.py
@@ -117,6 +118,7 @@ LeetCode/
 | 1266 | Minimum Time Visiting All Points                                | Easy       | [EasyQuestions/1266.py](EasyQuestions/1266.py)     | Chebyshev distance accumulation                               | O(n)              | O(1)     |
 | 1365 | How Many Numbers Are Smaller Than the Current Number            | Easy       | [EasyQuestions/1365.py](EasyQuestions/1365.py)     | Sort + first-index hash map                                   | O(n log n)        | O(n)     |
 | 1464 | Maximum Product of Two Elements in an Array                     | Easy       | [EasyQuestions/1464.py](EasyQuestions/1464.py)     | Track two largest values and multiply adjusted product        | O(n)              | O(1)     |
+| 1480 | Running Sum of 1d Array                                         | Easy       | [EasyQuestions/1480.py](EasyQuestions/1480.py)     | Accumulate running sums into new array                        | O(n)              | O(n)     |
 | 1672 | Richest Customer Wealth                                         | Easy       | [EasyQuestions/1672.py](EasyQuestions/1672.py)     | Row-wise sum and running maximum                              | O(m\*n)           | O(1)     |
 | 1684 | Count the Number of Consistent Strings                          | Easy       | [EasyQuestions/1684.py](EasyQuestions/1684.py)     | Allowed-character set with all-check                          | O(n\*m)           | O(k)     |
 | 1732 | Maximum Altitude                                                | Easy       | [EasyQuestions/1732.py](EasyQuestions/1732.py)     | Iterate gains and track maximum cumulative sum                | O(n)              | O(1)     |
