@@ -3,8 +3,8 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-60-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-44-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-61-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-45-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-14-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--09-0366d6)
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 60
+- Total solved: 61
 - Difficulty split:
-  - Easy: 44
+  - Easy: 45
   - Medium: 14
   - Hard: 2
 
@@ -57,6 +57,7 @@ LeetCode/
 |   |-- 242.py
 |   |-- 2469.py
 |   |-- 2496.py
+|   |-- 2582.py
 |   |-- 3894.py
 |   |-- 268.py
 |   |-- 2769.py
@@ -127,6 +128,7 @@ LeetCode/
 | 242  | Valid Anagram                                                   | Easy       | [EasyQuestions/242.py](EasyQuestions/242.py)       | Compare letter frequencies                                    | O(n)              | O(1)     |
 | 2469 | Convert the Temperature                                         | Easy       | [EasyQuestions/2469.py](EasyQuestions/2469.py)     | Direct Celsius conversion formulas                            | O(1)              | O(1)     |
 | 2496 | Convert the Temperature                                         | Easy       | [EasyQuestions/2496.py](EasyQuestions/2496.py)     | Direct Celsius conversion formulas                            | O(1)              | O(1)     |
+| 2582 | Pass the Pillow                                                 | Easy       | [EasyQuestions/2582.py](EasyQuestions/2582.py)     | Cycle-based position simulation                               | O(1)              | O(1)     |
 | 3894 | Traffic Signal                                                  | Easy       | [EasyQuestions/3894.py](EasyQuestions/3894.py)     | Conditional signal state lookup                               | O(1)              | O(1)     |
 | 268  | Missing Number                                                  | Easy       | [EasyQuestions/268.py](EasyQuestions/268.py)       | Arithmetic sum difference                                     | O(n)              | O(1)     |
 | 2769 | Find the Maximum Achievable Number                              | Easy       | [EasyQuestions/2769.py](EasyQuestions/2769.py)     | Direct arithmetic transformation                              | O(1)              | O(1)     |
