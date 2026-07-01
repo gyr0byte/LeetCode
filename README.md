@@ -3,11 +3,11 @@
 <!-- BADGES_START -->
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved-64-2ea44f)
-![Easy](https://img.shields.io/badge/Easy-48-6ab04c)
+![Solved](https://img.shields.io/badge/Solved-66-2ea44f)
+![Easy](https://img.shields.io/badge/Easy-50-6ab04c)
 ![Medium](https://img.shields.io/badge/Medium-14-f39c12)
 ![Hard](https://img.shields.io/badge/Hard-2-e74c3c)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--09-0366d6)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--07--01-0366d6)
 
 <!-- BADGES_END -->
 
@@ -18,9 +18,9 @@ A curated collection of my LeetCode solutions in Python, organized by difficulty
 This repository contains concise and interview-focused implementations for LeetCode problems.
 
 - Language: Python
-- Total solved: 64
+- Total solved: 66
 - Difficulty split:
-  - Easy: 48
+  - Easy: 50
   - Medium: 14
   - Hard: 2
 
@@ -47,8 +47,10 @@ LeetCode/
 |   |-- 1480.py
 |   |-- 1672.py
 |   |-- 1684.py
-|   |-- 1732.py
 |   |-- 169.py
+|   |-- 175.sql
+|   |-- 1732.py
+|   |-- 1757.sql
 |   |-- 1812.py
 |   |-- 1979.py
 |   |-- 1929.py
@@ -121,8 +123,10 @@ LeetCode/
 | 1480 | Running Sum of 1d Array                                         | Easy       | [EasyQuestions/1480.py](EasyQuestions/1480.py)     | Accumulate running sums into new array                        | O(n)              | O(n)     |
 | 1672 | Richest Customer Wealth                                         | Easy       | [EasyQuestions/1672.py](EasyQuestions/1672.py)     | Row-wise sum and running maximum                              | O(m\*n)           | O(1)     |
 | 1684 | Count the Number of Consistent Strings                          | Easy       | [EasyQuestions/1684.py](EasyQuestions/1684.py)     | Allowed-character set with all-check                          | O(n\*m)           | O(k)     |
-| 1732 | Maximum Altitude                                                | Easy       | [EasyQuestions/1732.py](EasyQuestions/1732.py)     | Iterate gains and track maximum cumulative sum                | O(n)              | O(1)     |
 | 169  | Majority Element                                                | Easy       | [EasyQuestions/169.py](EasyQuestions/169.py)       | Boyer-Moore voting algorithm                                  | O(n)              | O(1)     |
+| 175  | Combine Two Tables                                              | Easy       | [EasyQuestions/175.sql](EasyQuestions/175.sql)     | LEFT JOIN person and address                                  | O(n)              | O(1)     |
+| 1732 | Maximum Altitude                                                | Easy       | [EasyQuestions/1732.py](EasyQuestions/1732.py)     | Iterate gains and track maximum cumulative sum                | O(n)              | O(1)     |
+| 1757 | Recyclable and Low Fat Products                                 | Easy       | [EasyQuestions/1757.sql](EasyQuestions/1757.sql)   | Filter rows matching both flags                               | O(n)              | O(1)     |
 | 1812 | Determine Color of a Chessboard Square                          | Easy       | [EasyQuestions/1812.py](EasyQuestions/1812.py)     | Parity check on file and rank                                 | O(1)              | O(1)     |
 | 1979 | Find Greatest Common Divisor of Array                           | Easy       | [EasyQuestions/1979.py](EasyQuestions/1979.py)     | Euclidean algorithm on min and max                            | O(log n)          | O(1)     |
 | 1929 | Concatenation of Array                                          | Easy       | [EasyQuestions/1929.py](EasyQuestions/1929.py)     | Concatenate array with itself                                 | O(n)              | O(n)     |
